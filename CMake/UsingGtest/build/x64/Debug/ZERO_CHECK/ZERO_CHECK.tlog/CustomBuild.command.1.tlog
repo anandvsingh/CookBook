@@ -1,0 +1,10 @@
+^D:\LEARNING\C++\USINGGTEST\BUILD\CMAKEFILES\B3A9C5C3F54181C662F8285CBB8930E3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Learning/C++/UsingGtest -BD:/Learning/C++/UsingGtest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Learning/C++/UsingGtest/build/GtestUsage.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

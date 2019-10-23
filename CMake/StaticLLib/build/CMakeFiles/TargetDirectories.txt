@@ -1,0 +1,4 @@
+D:/Learning/C++/StaticLLib/build/CMakeFiles/INSTALL.dir
+D:/Learning/C++/StaticLLib/build/CMakeFiles/testDirectory.dir
+D:/Learning/C++/StaticLLib/build/CMakeFiles/ALL_BUILD.dir
+D:/Learning/C++/StaticLLib/build/CMakeFiles/ZERO_CHECK.dir
